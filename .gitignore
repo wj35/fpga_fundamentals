@@ -1,0 +1,26 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.mif
+.Xil/
+
+# Vivado project directories (large, reproducible)
+*/project_1.cache/
+*/project_1.hw/
+*/project_1.ip_user_files/
+*/project_1.runs/
+*/project_1.sim/
+
+# Bitstream (optional - some people include these)
+*.bit
+*.bin
+
+# MATLAB
+*.asv
+*.m~
+slprj/
+
+# OS files
+.DS_Store
+Thumbs.db
